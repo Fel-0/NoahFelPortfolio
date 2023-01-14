@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgba(7, 7, 7, 0.671);
+}
+
+.zaglavlje{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(65, 55, 55);
+    color: aliceblue;
+    border-radius: 50px;
+    
+    
+    font-size: x-large;
+
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.podstranice{
+    display:table;
+    margin-top: 10px;
+    width: auto;
+
+}
+.omeni{
+    float: left;
+    margin-left: 350px;
+}
+.hobiji{
+    float: left;
+    margin-left: 266px;
+
+    
+}
+.obrazovanje{
+
+        float: left;
+        margin-left: 266px;
+}
+.drstmreze{
+
+    float: left;
+    margin-left: 200px;
+}
